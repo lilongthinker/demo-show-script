@@ -9,7 +9,8 @@ https://github.com/cilium/cilium/tree/2decaf1d7596f202f4c50ad85d0464141f781d14/c
 ```bash
 yum -y install pv
 ```
-3. ./show_demo.sh
+3. git clone https://github.com/lilongthinker/demo-show-script.git
+4. ./show_demo.sh
 
 ### 其他优化展示工具
 1. jq https://stedolan.github.io/jq/manual/
