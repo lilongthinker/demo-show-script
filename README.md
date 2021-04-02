@@ -15,7 +15,7 @@ yum -y install pv
 ### 其他优化展示工具
 1. jq https://stedolan.github.io/jq/manual/
 2. jtab https://github.com/wlezzar/jtab
-3. 阿里云命令行工具 arc
+3. 阿里云命令行工具 arc https://github.com/aliyun/alibabacloud-resourcify-cli
 
 ### 一些脚本演示
 如下是demo里面的演示，可以一次打印，可以逐字打印，可以执行命令行，而命令行配合一些环境信息可以和jq/jtab/arc-cli 配合可以展现自动化的脚本展示
