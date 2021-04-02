@@ -27,3 +27,10 @@ desc_rate "逐字打印，类似手打效果"
 
 run "date"
 ```
+
+
+brew install asciinema
+
+asciinema rec demo.json
+
+asciinema play demo.json
