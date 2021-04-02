@@ -31,7 +31,8 @@ run "date"
 
 在脚本做好以后，可以通过asciinema来录制下来，进行分享
 ```bash
-brew install asciinema，
+## mac下 brew install asciinema
+yum -y install asciinema，
 asciinema rec demo.json
 asciinema play demo.json
 ```
